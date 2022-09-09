@@ -16,7 +16,7 @@ Yida Chen
 7. To delete the task, hit the red cross mark button on the right of the item.
 8. To send a copy of this list of TODO to your email, enter your email address at the bottom input box and hit the "email" button on the right. 
 
-References:
+# References:
 The creation of this TODO app follow the instructions and code examples from the following webpages:  
 [1] "Simple To-do List App with Node.js and MongoDB — Chapter 1," Diogo Pinheiro, [https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583](https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-1-c645c7a27583)  
 [2] "Simple To-do List App with Node.js and MongoDB — Chapter 2," Diogo Pinheiro, [https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-2-3780a1c5b039](https://medium.com/@diogo.fg.pinheiro/simple-to-do-list-app-with-node-js-and-mongodb-chapter-2-3780a1c5b039)  
