@@ -6,7 +6,7 @@ Yida Chen
 - public/stylesheets/style.css: The css file that we use to style the element in this ToDoApp
 - .env: The file that stored all environmental variables, such as the connection string to the MongoDB
 
-# How to interact with the mongodb
+# How to interact with the TODO App
 1. Make sure you install npm with version > v6.0.0 on your machine.
 2. Install dependencies by going to the top level of this folder/project and run `npm install`
 3. To start the App use command `npm start`
