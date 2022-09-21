@@ -6,7 +6,7 @@ const app = express();
 const dotenv = require("dotenv");
 
 // Load the model for TodoTask
-const TodoTask = require("TodoTask");
+const TodoTask = require("./models/TodoTask");
 
 // Load the content from the .env file
 dotenv.config();
