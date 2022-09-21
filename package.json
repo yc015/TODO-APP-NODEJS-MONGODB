@@ -4,6 +4,7 @@
   "description": "Basic TODO app implemented by Yida Chen in nodejs for CS279R.",
   "main": "index.js",
   "scripts": {
+    "web": "nodemon index.js",
     "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
